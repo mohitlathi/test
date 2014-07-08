@@ -11,4 +11,4 @@ class User {
         return "Hello world!";
     }
 }
-
+?>
